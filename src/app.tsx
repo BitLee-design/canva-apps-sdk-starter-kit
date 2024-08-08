@@ -14,11 +14,11 @@ export const App = () => {
     <div className={styles.scrollContainer}>
       <Rows spacing="2u">
         <Text>
-          To make changes to this app, edit the <code>src/app.tsx</code> file,
-          then close and reopen the app in the editor to preview the changes.
+          This my first Canvas app, made from Canvas Boilerplait <code>src/app.tsx</code> file,
+          I will do my best to improve through time to time.
         </Text>
         <Button variant="primary" onClick={onClick} stretch>
-          Do something cool
+          Know more about it
         </Button>
       </Rows>
     </div>
